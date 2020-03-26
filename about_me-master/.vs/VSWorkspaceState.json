@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "\\css",
+    "\\img",
+    "\\js",
+    "\\scss",
+    "\\vendor\\fontawesome-free",
+    "\\vendor\\fontawesome-free\\webfonts",
+    "\\vendor\\simple-line-icons",
+    "\\vendor\\simple-line-icons\\css"
+  ],
+  "PreviewInSolutionExplorer": false
+}
